@@ -68,7 +68,7 @@
     "@ionic-native/keyboard": "^5.5.0",
     "@ionic-native/qr-scanner": "^5.5.0",
     "@ionic/angular": "5.3.1",
-    "@ionic/core": "5.3.1",
+    "@ionic/core": "5.8.5",
     "@ionic/storage": "2.2.0",
     "@ledgerhq/hw-transport-u2f": "^5.15.0",
     "@ledgerhq/hw-transport-webusb": "^5.16.0",
